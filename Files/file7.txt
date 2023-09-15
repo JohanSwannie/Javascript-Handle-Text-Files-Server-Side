@@ -1,0 +1,1 @@
+This file is example 2 and will be read with the read stream method.
