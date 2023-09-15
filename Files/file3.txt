@@ -1,0 +1,1 @@
+When approaching the path method for file reading, the outcome will be much safer.
